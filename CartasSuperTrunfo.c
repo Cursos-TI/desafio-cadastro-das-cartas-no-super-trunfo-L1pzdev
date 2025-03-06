@@ -1,11 +1,14 @@
+//Programa feito com os ensinamentos do tema 1, sem modificadores de dados.
+//Como não havia ensinado repetições e algo similar a uma tupla, fiz o cadastro de 2 cartas utilizando
+//variaveis com o numero 2. 
 #include <stdio.h>
+//Biblioteca para usar o system
 #include <stdlib.h>
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste larissa
 //Declaração de Variáveis
 int pop_carta1,pop_carta2,pt_turcarta1,pt_turcarta2,num_carta1,num_carta2;
 char nome_carta1[100], nome_carta2[100], cod_carta1[3], cod_carta2[3];
